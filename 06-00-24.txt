@@ -1,0 +1,16 @@
+
+log Entry : 
+01/06/2024 11:07:05
+Error in:https://localhost:44398/errlog.aspx
+
+Error Message:System.ApplicationException: Throw error
+   at Error_Log.errlog.Page_Load(Object sender, EventArgs e) in D:\kajal\Error_Log\Error_Log\errlog.aspx.cs:line 18
+=============================================
+
+log Entry : 
+01/06/2024 11:07:08
+Error in:https://localhost:44398/errlog.aspx
+
+Error Message:System.ApplicationException: Throw error
+   at Error_Log.errlog.Page_Load(Object sender, EventArgs e) in D:\kajal\Error_Log\Error_Log\errlog.aspx.cs:line 18
+=============================================
